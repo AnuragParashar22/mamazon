@@ -1,0 +1,1 @@
+Basically It is an practice projec which includes the node and mongo db CRUD Operations in it.
